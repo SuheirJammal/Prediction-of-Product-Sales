@@ -27,8 +27,9 @@
 ## Exploratory Data Analysis
 - Conducted visualizations for all numerical and categorical features and explored feature relationships using different graph types.
 - In this analysis, I focused on answering specific questions?
-- Which outlet Location type perform the best in Sales?
-- Does opening new outlets increase the sales?
+  - Which outlet Location type perform the best in Sales?
+  - Does opening new outlets' Locations increase the sales?
+  - Which products are the lowest performing?
   
 ### Outlet Location Type
 <img width="580" height="455" alt="Outlet_Location_Type" src="https://github.com/user-attachments/assets/a2a68be2-27df-4a81-8e12-6fd269e47a72" />
