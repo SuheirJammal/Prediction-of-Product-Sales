@@ -69,7 +69,7 @@
    - Tier 1 outlets may be in less populated or lower-income areas, leading to lower overall sales.
 ### Question 1: which outlet location performs best in sales?
   ✔️ **Tier 2 outlets** clearly perform the best in sales
-     - The highest avg of sales and the most stable sales across years
+     - shows stable avg of sales across years, unlike tier 3, which achieve high sales but unstable results.
      
 
    
